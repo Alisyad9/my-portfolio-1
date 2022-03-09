@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <Nav LogoTitle="React Portfolio" />
-      <Hero />
+      <Hero title="My Portfolio" button="Find out more" />
     </div>
   );
 }
